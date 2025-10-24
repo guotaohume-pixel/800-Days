@@ -1,1 +1,1 @@
-# My-800-Days-of-Data-Mining
+# 800-Days
